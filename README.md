@@ -4,7 +4,7 @@
 
 ## 🔗 Посилання:
 
-- 📁 [Набір даних (.xlsx)](./data/streamflow_dataset.xlsx)
+- 📁 [Набір даних (.csv)](MidTerm Project.csv)
 - 📄 [Аналітичний звіт (.pdf)](./report/analytical_report.pdf)
 - 📊 [Дашборд Power BI (.pbix)](./dashboard/streamflow_dashboard.pbix)
 - 📄 [Дашборд у PDF](./dashboard/streamflow_dashboard.pdf)
