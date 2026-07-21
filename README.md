@@ -4,10 +4,10 @@
 
 ## 🔗 Посилання:
 
-- 📁 [Набір даних, використаний у проєкті](./data/)
-- 📄 [Аналітичний звіт (.pdf)](./report/Аналітичний_звіт__мобільного_застосунку_для_вивчення_англійської_.pdf)
-- 📊 [Дашборд (інтерактивний)](посилання-на-дашборд)
-
+- 📁 [Набір даних (.xlsx)](./data/streamflow_dataset.xlsx)
+- 📄 [Аналітичний звіт (.pdf)](./report/analytical_report.pdf)
+- 📊 [Дашборд Power BI (.pbix)](./dashboard/streamflow_dashboard.pbix)
+- 📄 [Дашборд у PDF](./dashboard/streamflow_dashboard.pdf)
 ---
 
 ## Опис проєкту
