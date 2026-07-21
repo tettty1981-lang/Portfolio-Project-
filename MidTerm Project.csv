@@ -1,0 +1,13 @@
+,,,
+Stage,Users,Conv. from previous %,% of Signup
+Signup,5000,,100.0%
+Trial,3831,76.6%,76.6%
+First Payment,3602,see branch ↓,72.0%
+Renewal,2495,69.3%,49.9%
+Upgrade,535,21.4%,10.7%
+,,,
+,,,
+Path,Base,Paid,Conversion rate %
+Via Trial,3831,2452,64.0%
+Direct (no trial),1169,1150,98.4%
+Total → payment,5000,3602,72.0%
