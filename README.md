@@ -5,9 +5,9 @@
 ## 🔗 Посилання:
 
 - 📁 [Набір даних (.csv)](./MidTerm%20Project.csv)
-- 📄 [Аналітичний звіт (.pdf)](./report/analytical_report.pdf)
-- 📊 [Дашборд Power BI (.pbix)](./dashboard/streamflow_dashboard.pbix)
-- 📄 [Дашборд у PDF](./dashboard/streamflow_dashboard.pdf)
+- 📄 [Аналітичний звіт (.pdf)](./Аналітичний_звіт__мобільного_застосунку_для_вивчення_англійської_.pdf)
+- 📊 [Дашборд Power BI (.pbix)](./English%20Learning%20Mobile%20App%20Analytics%20Dashboard.pbix)
+- 📄 [Дашборд у PDF](./English%20Learning%20Mobile%20App%20Analytics%20Dashboard.pdf)
 ---
 
 ## Опис проєкту
